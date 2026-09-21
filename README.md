@@ -47,3 +47,18 @@
 *Last updated: 2026-09-21* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vtu30003-gif/pst-java-week-6-unit-2/tree/master/0438-find-all-anagrams-in-a-string) |
+## String
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vtu30003-gif/pst-java-week-6-unit-2/tree/master/0438-find-all-anagrams-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vtu30003-gif/pst-java-week-6-unit-2/tree/master/0438-find-all-anagrams-in-a-string) |
+<!---LeetCode Topics End-->
